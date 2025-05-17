@@ -1,9 +1,9 @@
-🦷 # Cold Calling Automation for Dental Clinics
+🦷 **Cold Calling Automation for Dental Clinics**
 
 This project is a cold calling automation system designed specifically for dental clinics. 
 It helps clinics automatically follow up with patients who had an initial appointment but haven't scheduled a second one yet.
 
-🚀 # How It Works
+🚀 **How It Works**
 
 Patient data (name, phone number, treatment, etc.) is entered into a Google Sheets file.
 
