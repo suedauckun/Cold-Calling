@@ -17,3 +17,6 @@ The assistant automatically calls the patient and says something like:
 Would you like to schedule a second appointment to continue your treatment?”
 
 If the patient confirms, a new appointment can be booked or the clinic is notified.
+
+Here is the demo:
+https://youtu.be/KUmJZrXxKyA
